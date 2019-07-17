@@ -61,3 +61,7 @@ if __name__ == '__main__':
     tree2 = '[1,2,3,4,5]'
     root2 = stringToTreeNode(tree2);
     print( Solution().isSymmetric(root2) )
+
+
+# Testing git 
+# Mai test git 
