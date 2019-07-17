@@ -21,4 +21,8 @@ def fourSum(nums, target):
 
 nums = [1, 0, -1, 0, -2, 2]
 target = 0
-print(fourSum(nums, target))
+#print(fourSum(nums, target))
+
+
+# Mai Mai testing 2
+#Mai Mai testing 2
